@@ -1,5 +1,7 @@
 # Eugene-Onegin
 <b>Инструкция по установке программы Евгений Онегин</b>
+
+
 <b> Более наглядная инструкция в Google Docs</b>
 https://docs.google.com/document/d/1CWHfSBE-6MUek3zmTGiW5kIC6qkpALg-r-WOunEXkJA/edit?usp=sharing
 
