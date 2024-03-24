@@ -1,5 +1,7 @@
 # Eugene-Onegin
 <b>Инструкция по установке программы Евгений Онегин</b>
+<b> Более наглядная инструкция в Google Docs</b>
+https://docs.google.com/document/d/1CWHfSBE-6MUek3zmTGiW5kIC6qkpALg-r-WOunEXkJA/edit?usp=sharing
 
 1.	Нужно установить python (поскольку программа написана именно на этом языке программирования). Сделать это можно по ссылке https://www.python.org/downloads/windows/, нам подойдет любая версия, начиная с 3.10.1 . <b>Обращаю ваше внимание, что нужно устанавливать Windows Installer</b> (64 или 32 бит, в зависимости от вашей системы). https://skrinshoter.ru/sOuFolwqQL4.png  
  
