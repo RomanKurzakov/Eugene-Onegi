@@ -15,7 +15,7 @@ https://docs.google.com/document/d/1CWHfSBE-6MUek3zmTGiW5kIC6qkpALg-r-WOunEXkJA/
  
  
 
-4.	Теперь нам нужно прописать <code>pip install requests</code> и дождаться пока установиться эта библиотека. https://skrinshoter.ru/sOulB74S7jo.png
+4.	Теперь нам нужно прописать <code>pip install requests</code> и дождаться пока установиться эта библиотека, затем прописать <code>pip install openpyxl</code> и также дождаться установки данной библиотеки. https://skrinshoter.ru/sOulB74S7jo.png
  
 
 5.	Настройка сделана. Остается только скачать программу “Евгений Онегин”.
